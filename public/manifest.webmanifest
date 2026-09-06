@@ -1,0 +1,13 @@
+{
+  "name": "肌动·健身减脂与身体成长工作台",
+  "short_name": "肌动",
+  "description": "强壮不是口号，是每一次训练留下的证据。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f2f0e9",
+  "theme_color": "#202628",
+  "icons": [{"src": "/assets/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}

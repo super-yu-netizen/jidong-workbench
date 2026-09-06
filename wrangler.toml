@@ -1,0 +1,4 @@
+# 仅发布生成后的前端产物，个人数据留在访问者自己的浏览器。
+name = "jidong-workbench"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-09-06"
